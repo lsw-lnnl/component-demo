@@ -1,5 +1,5 @@
 <template>
-    <div class="home">aa
+    <div class="home">aabb
         <searchInput />
     </div>
 </template>
